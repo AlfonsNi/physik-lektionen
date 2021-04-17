@@ -6,10 +6,10 @@ Sieh Dir das Video "Das Fadenpendel" auf youtube an:
 
 <a href="https://www.youtube.com/watch?v=Hb5HpFEAOMQ"> https://www.youtube.com/watch?v=Hb5HpFEAOMQ </a>
 
-Die wichtigsten Kenngrößen eines Fadenpendels sind seine Länge l und die Schwingungsdauer T für eine vollständige Schwingung.
+Die wichtigsten Kenngrößen eines Fadenpendels sind seine Länge l und die Schwingungsdauer T für eine vollständige Schwingung. Die Länge wird vom Aufhängepunkt bis zum Schwerpunkt der Pendelmasse gemessen. 
 
 <ol start="1">
-	<li>Die Länge wird vom Aufhängepunkt bis zum Schwerpunkt der Pendelmasse gemessen. Die Schwingungsdauer T kann mit hoher Genauigkeit gemessen werden, indem man die Zeit für mehrere Schwingungen durch die Anzahl der Schwingungen dividiert. Bestimme auf diesem Weg die Schwingungsdauer des Fadenpendels im Video.</li>
+	<li>Die Schwingungsdauer T kann mit hoher Genauigkeit gemessen werden, indem man die Zeit für mehrere Schwingungen durch die Anzahl der Schwingungen dividiert. Bestimme auf diesem Weg die Schwingungsdauer des Fadenpendels im Video.</li>
 </ol>
 
 ### Experimente mit dem Fadenpendel
