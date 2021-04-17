@@ -22,7 +22,7 @@ In diesem Abschnitt sollst Du Experimente mit einem selbst angefertigten Fadenpe
 	<li>Für die Schwingungsdauer eine Fadenpendels gilt die Formel $T= 2⋅π⋅\sqrt{\frac{l}{g}}$, wobei g der Ortsfaktor $9,81 \frac{m}{s^2}$ ist. Welche Form muss Dein Diagramm also haben?
 	Überprüfe für die Werte aus 3., ob die Formel in Deinem Fall erfüllt ist. </li>
 	<li>Im Bild siehst Du die Skizze eines Fadenpendels mit den darauf wirkenden Kräften. Gib die auf die Pendelmasse wirkende Gesamtkraft in Abhängikeit von F<sub>G</sub> und α an. Zeige mit Hilfe des 2. Newtonschen Gesetzes, dass die Pendelmasse keinen Einfluss auf die Schwingungsdauer hat.
-	**ACHTUNG:** Der Schwierigkeitsgrad dieser Aufgabe ist sehr hoch! </li>
+	</li>
 </ol>
 
 <figure>
